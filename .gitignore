@@ -1,0 +1,27 @@
+# Data and raw DEMs (LRO LOLA GeoTIFFs can be hundreds of MBs or GBs)
+data/raw/
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+Untitled*.png
+*.bak
+
+# Personal reports (kept locally, not published to remote)
+PROJECT_REPORT.md
+SIMPLE_PROJECT_EXPLANATION.md
+
