@@ -92,3 +92,6 @@ Output: `data/horizon_<site_id>.json` containing 360-degree horizon elevation ma
 - [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md): Full NASA open data source registry, endpoints, and coordinate citations.
 - [`AI_USAGE.md`](AI_USAGE.md): Complete AI disclosure log in accordance with NASA Space Apps Challenge regulations.
 
+## 🚀 NASA Space Apps Challenge 2026 Submission
+- **[View Project on NASA Space Apps Challenge](https://www.spaceappschallenge.org/2026/find-a-team/team-oidbrone/?tab=project)
+
