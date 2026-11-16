@@ -99,4 +99,4 @@ Output: `data/horizon_<site_id>.json` containing 360-degree horizon elevation ma
 
 **Galactic Problem Solver — 2026 NASA Space Apps Challenge**
 
-![NASA Space Apps Challenge Certificate](assets/certificate.png)
+![NASA Space Apps Challenge Certificate](assets/certificate.jpeg)
