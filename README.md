@@ -95,3 +95,8 @@ Output: `data/horizon_<site_id>.json` containing 360-degree horizon elevation ma
 ## 🚀 NASA Space Apps Challenge 2026 Submission
 - **[View Project on NASA Space Apps Challenge](https://www.spaceappschallenge.org/2026/find-a-team/team-oidbrone/?tab=project)
 
+## 🏆 Achievement & Recognition
+
+**Galactic Problem Solver — 2026 NASA Space Apps Challenge**
+
+![NASA Space Apps Challenge Certificate](assets/certificate.png)
